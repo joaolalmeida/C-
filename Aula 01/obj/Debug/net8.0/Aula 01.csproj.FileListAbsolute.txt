@@ -12,3 +12,4 @@ C:\Users\joaol\OneDrive\Documentos\Estudos\C#\Aula 01\obj\Debug\net8.0\refint\Au
 C:\Users\joaol\OneDrive\Documentos\Estudos\C#\Aula 01\obj\Debug\net8.0\Aula 01.pdb
 C:\Users\joaol\OneDrive\Documentos\Estudos\C#\Aula 01\obj\Debug\net8.0\Aula 01.genruntimeconfig.cache
 C:\Users\joaol\OneDrive\Documentos\Estudos\C#\Aula 01\obj\Debug\net8.0\ref\Aula 01.dll
+C:\Users\joaol\OneDrive\Documentos\Estudos\C#\Aula 01\obj\Debug\net8.0\Aula 01.sourcelink.json

@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "Aula 01.sln"
+    "dotnet.defaultSolution": "Aula 01.sln",
+    "csharp.debug.console": "externalTerminal" //Usar para abrir um terminal separado para os testes
 }
